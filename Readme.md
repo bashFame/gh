@@ -1,0 +1,3 @@
+# Automate
+
+automate gh cmds
